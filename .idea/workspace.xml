@@ -4,32 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cba2953e-fca0-45f2-9f87-3b7d7dc0a1ef" name="更改" comment="&quot;创建项目提交github&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/mysql/sql/s-pay-mall.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/natapp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/内网穿透说明.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/nginx/html/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/nginx/html/images/placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/nginx/html/images/sku-keyboard-001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/nginx/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/nginx/html/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/dev-ops/redis/redis.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-dao/src/main/java/cn/bugstack/dao/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-domain/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-domain/src/main/java/cn/bugstack/domain/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-service/src/main/java/cn/bugstack/service/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/pom.xml" afterDir="false" />
+    <list default="true" id="cba2953e-fca0-45f2-9f87-3b7d7dc0a1ef" name="更改" comment="&quot;再次上传&quot;">
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/MessageTextEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/SignatureUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/controller/WeixinPortalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dev-ops/natapp/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dev-ops/natapp/natapp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/natapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-pay-mall-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/s-pay-mall-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +34,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Coding-Lml"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Coding-Lml&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Coding-Lml/s-pay-mall-mvc.git",
-    "accountId": "8997dfac-5f26-48aa-9e7f-578d1bb4f097"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Coding-Lml/s-pay-mall-mvc.git&quot;,
+    &quot;accountId&quot;: &quot;8997dfac-5f26-48aa-9e7f-578d1bb4f097&quot;
   }
-}]]></component>
+}</component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -83,12 +77,18 @@
     "Maven.s-pay-mall-mvc [clean].executor": "Run",
     "Maven.s-pay-mall-mvc-lml [clean].executor": "Run",
     "Maven.s-pay-mall-web [clean].executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Lombok plugin": "Lombok 集成问题",
+    "Notification.DoNotAsk-Lombok plugin": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.Application.executor": "Run",
-    "git-widget-placeholder": "master",
+    "Spring Boot.Application.executor": "Debug",
+    "git-widget-placeholder": "251013-lml-weixin-protal",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/aloong/Documents/Work/Java/s-pay-mall-mvc/docs/dev-ops",
+    "last_opened_file_path": "/Users/aloong/Documents/Work/Java/s-pay-mall-mvc/s-pay-mall-web/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,13 +97,22 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/s-pay-mall-web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common" />
+      <recent name="$PROJECT_DIR$/docs/dev-ops" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/dev-ops/natapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.bugstack.controller" />
     </key>
   </component>
   <component name="RunManager">
@@ -144,7 +153,9 @@
       <updated>1760338896381</updated>
       <workItem from="1760338897376" duration="3898000" />
       <workItem from="1760347456288" duration="964000" />
-      <workItem from="1760348493061" duration="1419000" />
+      <workItem from="1760348493061" duration="2798000" />
+      <workItem from="1760375046099" duration="13000" />
+      <workItem from="1760441010573" duration="6713000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;创建项目提交github&quot;">
       <option name="closed" value="true" />
@@ -154,14 +165,50 @@
       <option name="project" value="LOCAL" />
       <updated>1760349540722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;再次上传&quot;">
+      <option name="closed" value="true" />
+      <created>1760350029403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760350029403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="251013-lml-weixin-protal" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;创建项目提交github&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;创建项目提交github&quot;" />
+    <MESSAGE value="&quot;再次上传&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;再次上传&quot;" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
