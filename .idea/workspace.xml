@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cba2953e-fca0-45f2-9f87-3b7d7dc0a1ef" name="更改" comment="&quot;再次上传&quot;">
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/MessageTextEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/SignatureUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/XmlUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-common/src/main/java/cn/backstack/common/weixin/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/controller/WeixinPortalController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/resources/logback-spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dev-ops/natapp/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dev-ops/natapp/natapp" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dev-ops/natapp/natapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s-pay-mall-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/s-pay-mall-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/controller/WeixinPortalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/s-pay-mall-web/src/main/java/cn/bugstack/controller/WeixinPortalController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="251013-lml-weixin-protal" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,8 +73,8 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.Application.executor": "Debug",
-    "git-widget-placeholder": "251013-lml-weixin-protal",
+    "Spring Boot.Application.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/aloong/Documents/Work/Java/s-pay-mall-mvc/s-pay-mall-web/src/main/resources",
     "node.js.detected.package.eslint": "true",
@@ -132,6 +120,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +147,7 @@
       <workItem from="1760348493061" duration="2798000" />
       <workItem from="1760375046099" duration="13000" />
       <workItem from="1760441010573" duration="6713000" />
+      <workItem from="1761032693456" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;创建项目提交github&quot;">
       <option name="closed" value="true" />
