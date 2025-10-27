@@ -1,5 +1,6 @@
 package cn.bugstack;
 
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
@@ -9,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
  * @author Aloong
  * @since 2025/10/13 下午5:56
  */
-@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
+@SpringBootApplication
 @Configuration
 public class Application {
     public static void main(String[] args) {
