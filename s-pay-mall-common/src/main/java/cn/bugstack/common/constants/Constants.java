@@ -1,4 +1,4 @@
-package cn.backstack.common.constants;
+package cn.bugstack.common.constants;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

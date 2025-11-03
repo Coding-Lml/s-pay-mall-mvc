@@ -1,6 +1,6 @@
 package cn.bugstack.domain.res;
 
-import cn.backstack.common.constants.Constants;
+import cn.bugstack.common.constants.Constants;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

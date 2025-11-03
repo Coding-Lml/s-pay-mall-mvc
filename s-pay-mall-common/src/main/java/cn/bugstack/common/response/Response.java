@@ -1,4 +1,4 @@
-package cn.backstack.common.response;
+package cn.bugstack.common.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

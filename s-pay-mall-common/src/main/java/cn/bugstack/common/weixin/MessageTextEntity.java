@@ -1,4 +1,4 @@
-package cn.backstack.common.weixin;
+package cn.bugstack.common.weixin;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
